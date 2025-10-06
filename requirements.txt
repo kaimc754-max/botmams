@@ -7,3 +7,4 @@ telegram
 aiohttp
 python-telegram-bot
 requests
+pyotp
