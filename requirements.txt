@@ -1,0 +1,9 @@
+python-telegram-bot==20.7
+aiohttp==3.9.5
+flask==3.0.3
+python-telegram-bot[job-queue]
+pytz
+telegram
+aiohttp
+python-telegram-bot
+requests
